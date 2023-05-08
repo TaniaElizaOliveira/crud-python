@@ -165,7 +165,7 @@ minikube dashboard
 
 ### 2.2. Look
 Brief presentation of the project [link](https://youtu.be/E-Wjp_wmb1Q)  
-Brief presentation of the project [link]((https://youtu.be/LsBZbab7L-M))
+Brief presentation of the project [link](https://youtu.be/LsBZbab7L-M)
 ```
 
 
