@@ -163,4 +163,4 @@ And finish calling the dashboard to open Kubernetes
 minikube dashboard
 
 
-https://youtu.be/LsBZbab7L-M
+[Link 1]https://youtu.be/LsBZbab7L-M
