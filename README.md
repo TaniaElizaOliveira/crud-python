@@ -161,6 +161,10 @@ docker save django-kube | (eval $(minikube docker-env) && docker load)
 And finish calling the dashboard to open Kubernetes
 ```
 minikube dashboard
+```
+
+### 2.2. Look
+Brief presentation of the project [link](https://youtu.be/LsBZbab7L-M) 
+```
 
 
- [link](https://youtu.be/LsBZbab7L-M) 
